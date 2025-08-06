@@ -1,0 +1,14 @@
+{
+  "name": "discordjs-buildship",
+  "version": "1.0.0",
+  "description": "Discord.js integrated with Buildship or 3rd party serverless endpoints.",
+  "main": "index.js",
+  "author": "dropifyxyz, matthewlal",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
