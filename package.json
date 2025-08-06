@@ -6,7 +6,7 @@
   "author": "dropifyxyz, matthewlal",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.15.3"
+    "discord.js": "^14.21.0"
   },
   "scripts": {
     "start": "node index.js"
